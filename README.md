@@ -12,3 +12,5 @@ VersaRouter - https://blockscout.com/astar/address/0xDAC282cA5534DC5936165197263
 MasterChef - https://blockscout.com/astar/address/0x68861ab83c13f862ebAAa80Cf07dc64ee7c61DDa/contracts
 
 SyrupBar - https://blockscout.com/astar/address/0x45BFf2318e1AA91E10c81739Af7D69687003037A/contracts
+
+TokenTimelock - https://blockscout.com/astar/address/0x2c46cdea038FC7503b567dbf915cd1F52B97BEE9/contracts
